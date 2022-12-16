@@ -223,6 +223,21 @@ header {
   font-size: 1rem;
   color: rgba(57, 70, 79, 0.64);
 }
+/* partner */
+/* .partner{
+  background-color: #23a455;
+} */
+.partner img{
+  width: 100%;
+  height: 80px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #FFF;
+  border-radius: 2px;
+  overflow: hidden;
+  background-position: center;
+}
+
 
 /* Footer */
 
@@ -236,7 +251,7 @@ header {
 }
 #footer img {
   height: 180px;
-  width: 100%;
+  width: 180px;
   background-repeat: no-repeat;
   background-size: cover;
 }
